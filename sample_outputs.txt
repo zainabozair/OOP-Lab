@@ -1,0 +1,19 @@
+Task 1: BankAccount
+
+Account: 12345 - Owner: Alice, Balance: $500
+After deposit: Account: 12345 - Owner: Alice, Balance: $700
+After withdraw: Account: 12345 - Owner: Alice, Balance: $600
+Error: Insufficient funds.
+Error: Withdrawal amount must be positive.
+
+Task2: savings
+
+Initial account: Account: 12345 - Owner: Alice, Balance: $1000 - Interest rate: 5%
+After deposit: Account: 12345 - Owner: Alice, Balance: $1200 - Interest rate: 5%
+After withdraw: Account: 12345 - Owner: Alice, Balance: $1000 - Interest rate: 5%
+After interest: Account: 12345 - Owner: Alice, Balance: $1050.0 - Interest rate: 5%
+
+Task 3: Custom Exception
+
+Error: Insufficient funds.
+
